@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(16, 14, 14);
+}
+#SearchBar{
+    display: block;
+    margin-bottom: 110px;
+}
+
+.video-preview{
+    display: inline-block;
+    background-color: black;
+    width: 365px;
+    color: white;
+    margin-left: 50px;
+}
+
+.thumnail{
+    width: 365px;
+    height: 200px;
+}
+
+.video-title{
+    margin: 0;
+    font-size: 18px;
+}
+
+.channel-name{
+    font-size: 16px;
+    margin: 10px 0 10px 0;
+    color: rgb(181, 177, 177);
+}
+
+.views-time{
+    display: inline;
+}
